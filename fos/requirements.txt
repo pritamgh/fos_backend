@@ -1,5 +1,5 @@
 boto3==1.13.8
-Django==2.2
+Django==2.2.13
 django-mptt==0.11.0
 django-storages==1.9.1
 djangorestframework==3.11.0
